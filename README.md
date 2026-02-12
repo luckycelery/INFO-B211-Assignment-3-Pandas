@@ -1,4 +1,11 @@
 # INFO-B211 — Assignment 3: Pandas Statistical Analysis
+
+Setosa is the least similar to both Versicolor and Virginica.  Setosa’s petals are tiny compared to the other two species.
+This is the single biggest separation in the entire dataset. Also, petal_length and petal_width have a very strong correlation (0.94), meaning species with larger petals differ sharply from those with small ones.
+
+Versicolor and Virginica are the most similar species.Their variability is similar: Petal length SD: ~0.46 vs ~0.46. Petal width SD: ~0.18 vs ~0.24. This means their distributions overlap more than Setosa overlaps with anything. Because petal_length and petal_width are so strongly correlated (0.94), Versicolor + Virginica. 
+
+
 ## Iris Dataset Analyzer
 
 ---
